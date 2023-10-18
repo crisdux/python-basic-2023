@@ -15,3 +15,9 @@ persona = {
 for i in persona:
     print(f"la llave es: {i} para {persona[i]}")
 
+for values in persona.values():
+    print(f"el valor es: {values}")
+
+for key,values in persona.items():
+    print(f"la llave es: {key} y el valor es: {values}")
+
