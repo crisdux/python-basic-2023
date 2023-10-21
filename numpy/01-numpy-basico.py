@@ -22,3 +22,4 @@ print(arr5) ## array de numeros enteros
 arr_zeros = np.zeros((3), int)
 
 print(arr_zeros) ## array de ceros
+
